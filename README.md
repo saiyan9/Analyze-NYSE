@@ -5,6 +5,7 @@ In this project, you will go through the process of calculating summary statisti
 
 ## Technology
 * Excel
+* Powerpoint
 
 ## Structure
 * NYSE Project.xlsx
