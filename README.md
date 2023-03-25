@@ -21,3 +21,6 @@ In this project, you will go through the process of calculating summary statisti
 
 ## Acknowledgements
 I received extra guidance from my session lead.
+
+## Project Rubric
+https://review.udacity.com/#!/rubrics/3342/view
